@@ -175,4 +175,4 @@ This project is open for modification and improvement. Contributions in the form
 
 Iftakharul Islam
 
-BSc.IT(AI Major), Macquarie University
+BSc. IT(AI Major), Macquarie University
