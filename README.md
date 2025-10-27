@@ -173,6 +173,6 @@ This project is open for modification and improvement. Contributions in the form
 
 ## Author
 
-Iftakharul Islam
+**Iftakharul Islam**
 
 BSc. IT(AI Major), Macquarie University
